@@ -86,6 +86,13 @@ The following steps were performed:
 - Some high-revenue products operate with lower profit margins, suggesting pricing or cost optimization opportunities
 
 ---
+### Business Recommendations
+
+- Optimize costs for high-revenue, low-margin products through supplier and logistics review.
+- Review pricing strategies to improve margins on high-demand products.
+- Promote products through higher-margin sales channels.
+- Reduce excessive discounting on top-selling products.
+
 
 ---
 
